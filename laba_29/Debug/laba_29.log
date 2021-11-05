@@ -1,0 +1,3 @@
+﻿  laba_29.cpp
+C:\Users\дарья\source\repos\laba_29\laba_29.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  laba_29.vcxproj -> C:\Users\дарья\source\repos\laba_29\Debug\laba_29.exe
