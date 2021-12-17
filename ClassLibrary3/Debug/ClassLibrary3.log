@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\дарья\source\repos\ClassLibrary3\MyForm.h(316,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm2.cpp
+  Создание кода...
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ClassLibrary3.vcxproj -> C:\Users\дарья\source\repos\ClassLibrary3\Debug\ClassLibrary3.exe

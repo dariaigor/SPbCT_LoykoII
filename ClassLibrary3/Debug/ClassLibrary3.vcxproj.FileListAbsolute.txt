@@ -1,0 +1,6 @@
+C:\Users\дарья\source\repos\ClassLibrary3\Debug\ClassLibrary3.vcxprojAssemblyReference.cache
+C:\Users\дарья\source\repos\ClassLibrary3\Debug\ClassLibrary3.pdb
+C:\Users\дарья\source\repos\ClassLibrary3\Debug\ClassLibrary3.MyForm.resources
+C:\Users\дарья\source\repos\ClassLibrary3\Debug\ClassLibrary3.vcxproj.GenerateResource.cache
+C:\Users\дарья\source\repos\ClassLibrary3\Debug\ClassLibrary3.exe
+C:\Users\дарья\source\repos\ClassLibrary3\Debug\ClassLibrary3.MyForm2.resources
